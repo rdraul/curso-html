@@ -1,0 +1,25 @@
+body{
+    margin: 25px;
+    font-size: 12px;
+}
+img:nth-child(2){
+    margin-top: 1.3rem;
+    width: 22.6%;
+}
+h2{
+    border-bottom: solid #e4e4e4 1px;
+}
+ul{
+    list-style: none;
+    display: flex; 
+    padding: 5px;
+}
+#cantidad{
+    margin-left: 25rem;
+}
+#logo{
+    border-bottom: solid #eee 2px;
+}
+#logo img{
+    width: 18vh;
+}
